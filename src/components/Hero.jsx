@@ -26,7 +26,7 @@ const Hero = () => {
               Watch Now
             </button>
 
-            <button className=" border-white px-7 py-3 rounded-lg hover:bg-white hover:text-black transition">
+            <button className="border border-white px-7 py-3 rounded-lg hover:bg-white hover:text-black transition">
               Explore
             </button>
           </div>
